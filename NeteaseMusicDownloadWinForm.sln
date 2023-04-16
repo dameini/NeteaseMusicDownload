@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeteaseMusicDownload", "NeteaseMusicDownload.csproj", "{4E900854-1C03-4510-A76E-077BB6105CFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeteaseMusicDownloadWinForm", "NeteaseMusicDownloadWinForm.csproj", "{46290CB6-5736-4A50-B6D8-DE181619B564}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4E900854-1C03-4510-A76E-077BB6105CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E900854-1C03-4510-A76E-077BB6105CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E900854-1C03-4510-A76E-077BB6105CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E900854-1C03-4510-A76E-077BB6105CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46290CB6-5736-4A50-B6D8-DE181619B564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46290CB6-5736-4A50-B6D8-DE181619B564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46290CB6-5736-4A50-B6D8-DE181619B564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46290CB6-5736-4A50-B6D8-DE181619B564}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1AA21D7F-2A11-488D-B2CB-6B04D61BABC8}
+		SolutionGuid = {C7DAA768-A937-4603-9A5D-78C49A4DD98D}
 	EndGlobalSection
 EndGlobal
